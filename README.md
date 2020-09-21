@@ -3,3 +3,6 @@
 
 # Problem
     1.右键点击不移动
+    
+# status
+    暂停
